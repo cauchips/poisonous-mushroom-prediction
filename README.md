@@ -2,7 +2,7 @@
 
 This repository contains a data science project aimed at predicting whether a mushroom is **poisonous** or **edible** based on its physical characteristics. The project follows the CRISP-DM methodology (Cross Industry Standard Process for Data Mining) and was primarily developed using Python and Streamlit for deployment.
 
-The application is deployed at: [Streamlit](https://poisonous-mushroom-prediction.streamlit.app)
+The application is deployed at: [Deployed Streamlit](https://poisonous-mushroom-prediction.streamlit.app)
 
 ## Project Overview
 
@@ -21,7 +21,7 @@ The primary goal of this project is to classify mushrooms as either **poisonous*
 
 The project includes a web application built using [Streamlit](https://streamlit.io/), allowing users to input mushroom characteristics and get real-time predictions on whether the mushroom is poisonous or edible.
 
-You can access the deployed app here: [Streamlit](https://poisonous-mushroom-prediction.streamlit.app)
+You can access the deployed app here: [Deployed Streamlit](https://poisonous-mushroom-prediction.streamlit.app)
 
 ### Steps to Run Locally:
 
@@ -70,4 +70,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-This project was developed by [Your Name](https://github.com/cauchips).
+This project was developed by [Cauchips](https://github.com/cauchips).
