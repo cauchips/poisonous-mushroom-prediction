@@ -2,11 +2,11 @@
 
 This repository contains a data science project aimed at predicting whether a mushroom is **poisonous** or **edible** based on its physical characteristics. The project follows the CRISP-DM methodology (Cross Industry Standard Process for Data Mining) and was primarily developed using Python and Streamlit for deployment.
 
-The application is deployed at: [Deployed Streamlit](https://poisonous-mushroom-prediction.streamlit.app)
+The application is deployed at: [Streamlit Cloud](https://poisonous-mushroom-prediction.streamlit.app)
 
 ## Project Overview
 
-Mushrooms are diverse, and while some are safe to consume, others can be dangerous. This project uses a machine learning model trained on mushroom data to predict the likelihood of a mushroom being poisonous or edible based on 22 categorical features such as:
+Mushrooms are diverse; while some are safe to consume, others can be dangerous. This project uses a machine learning model trained on mushroom data to predict the likelihood of a mushroom being poisonous or edible based on 22 categorical features such as:
 
 - Cap shape, cap surface, cap color
 - Gill attachment, gill spacing, gill size, gill color
@@ -21,13 +21,13 @@ The primary goal of this project is to classify mushrooms as either **poisonous*
 
 The project includes a web application built using [Streamlit](https://streamlit.io/), allowing users to input mushroom characteristics and get real-time predictions on whether the mushroom is poisonous or edible.
 
-You can access the deployed app here: [Deployed Streamlit](https://poisonous-mushroom-prediction.streamlit.app)
+You can access the deployed app here: [Streamlit Cloud](https://poisonous-mushroom-prediction.streamlit.app)
 
 ### Steps to Run Locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mushroom-prediction.git
+    git clone https://github.com/cauchips/poisonous-mushroom-prediction.git
     ```
 
 2. Install the required dependencies:
@@ -56,7 +56,7 @@ The dataset used in this project is the **Mushroom Classification Dataset** from
 
 ## Machine Learning Model
 
-A Random Forest classifier was trained on the dataset after applying label encoding to the categorical features. The model was evaluated and tuned to provide accurate predictions. The details of the model training process can be found in the `scripts.ipynb` notebook.
+After applying label encoding to the categorical features, a Random Forest classifier was trained on the dataset. The model was evaluated and tuned to provide accurate predictions. The details of the model training process can be found in the `scripts.ipynb` notebook.
 
 ## Future Work
 
@@ -66,7 +66,7 @@ A Random Forest classifier was trained on the dataset after applying label encod
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please take a look at the [LICENSE](LICENSE) file for details.
 
 ## Author
 
